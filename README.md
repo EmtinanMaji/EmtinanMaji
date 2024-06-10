@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there! I'm a fresh Computer Science graduate with a strong interest in software development and full-stack work. I enjoy building and maintaining web applications using a variety of modern technologies.
 
 <!--
 **EmtinanMaji/EmtinanMaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
